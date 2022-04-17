@@ -70,7 +70,7 @@ left: "0px",
 top: "0px",
 height: "100%",
 width: "100%",
-background: "https://i.pinimg.com/originals/02/2d/6c/022d6ce975e0a6f7f409b235bd8a5a67.gif"
+background: q
 }), g = "true" == X && "" != Q ? Q + ft() : ft();
 (m = new Audio).id = n + "html5audio", m.preload = "auto", "true" == re && (xt("autoplay enabled"), m.autoplay = !0), m.addEventListener("timeupdate", function() {
 0 == m.paused && (e("#" + n + "audiopreloader").fadeOut(0), e("#" + n + "smallaudiopreloader").fadeOut(0))
